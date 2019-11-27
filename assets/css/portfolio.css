@@ -10,6 +10,10 @@
   background: rgba(255, 255, 255, 0);
 }
 
+.portfolio-wrapper {
+  margin-top: 20px;
+}
+
 .portfolio-screen {
   position: absolute;
   top: 0;
@@ -34,7 +38,8 @@
 }
 
 .portfolio1 {
-  background: url(../images/image1.jpeg) top left no-repeat;
+  background: url(../../images/image1.jpeg) top left no-repeat;
+  background-size: cover;
 }
 
 .portfolio-row {
