@@ -25,13 +25,17 @@
 
       <a class="navbar-brand d-none d-lg-inline-block"
         href="https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap.git">
-        My Github
+        <i class='fa fa-github' aria-hidden="true"> My Github</i>
       </a>
+      <div class="row">
+        <a class="navbar-brand-two mx-auto d-lg-none d-inline-block"
+          href="https://eunsoojung.github.io/Unit-02-CSS-and-Bootstrap/">
+          <!-- <img src="//placehold.it/40?text=LOGO" alt="logo"> -->
+          <i class='fa fa-github' aria-hidden="true"> My Github</i>
+        </a>
+      </div>
 
-      <a class="navbar-brand-two mx-auto d-lg-none d-inline-block"
-        href="https://eunsoojung.github.io/Unit-02-CSS-and-Bootstrap/">
-        <img src="//placehold.it/40?text=LOGO" alt="logo">
-      </a>
+
 
       <div class="w-100 text-right">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
@@ -77,13 +81,26 @@
             <hr>
           </div>
 
-          <div class="row clearfix">
-            <div class="myPhoto col-md-3 ">
-              <!-- <img src="http://placehold.it/200x200" alt="Placeholder" class="img-thumbnail"> -->
-              <img src="images/my_photo.jpg" alt="Placeholder" class="img-thumbnail my_photo">
-            </div>
+          <img src="images/my_photo.jpg" width="200px" height="200px" alt="Placeholder" class="img-thumbnail my_photo"
+            style="float: left; margin-right: 10px; margin-bottom: 5px;" />
 
-            <div class="col-md-9 summary">
+          <P>A dynamic, creatively thinking, performance driven IT professional with experience. <br><br>
+            Specialize
+            in
+            Object
+            Oriented Design and Analysis with extensive experience in the full range of Java / J2EE technologies and
+            their
+            implementation in Application Server products. <br><br> Possess deep knowledge of the full life cycle of
+            software
+            development process including requirements definition, prototyping, proof of concept, design,
+            implementation,
+            testing and support. <br><br> Recognized for keen ability to improve component designing and increase
+            flexibility
+            allowing significantly reducing development and maintenance costs.</P>
+
+        </div>
+
+        <!-- <div class="col-md-9 summary">
               <P class="p1">A dynamic, creatively thinking, performance driven IT professional with experience. <br><br>
                 Specialize
                 in
@@ -97,20 +114,20 @@
                 testing and support. <br><br> Recognized for keen ability to improve component designing and increase
                 flexibility
                 allowing significantly reducing development and maintenance costs.</P>
-            </div>
+            </div> -->
 
-          </div>
-        </div>
       </div>
+    </div>
+    </div>
     </div>
   </section>
 
-  <div class="jumbotron jumbotron-fluid mt-5 mb-0 p-2">
-    <!-- text-center allows us to center the text within this element -->
-    <div class="text-center">
-      <p class="footer_p">Copylight @</p>
+  <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+    <div class="container text-center">
+      <small>Copyright &copy; Your Website</small>
     </div>
-  </div>
+  </footer>
+
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -1,0 +1,42 @@
+.portfolio {
+  display: block;
+  cursor: pointer;
+  width: 100%;
+  height: 200px;
+  position: relative;
+}
+
+.portfolio:hover .portfolio-screen {
+  background: rgba(255, 255, 255, 0);
+}
+
+.portfolio-screen {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.4);
+  z-index: 100;
+}
+
+.portfolio-title {
+  position: absolute;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  right: 0;
+  bottom: 10px;
+  left: 0;
+  background: #33a1fd;
+  color: #fff;
+  z-index: 200;
+}
+
+.portfolio1 {
+  background: url(../images/image1.jpeg) top left no-repeat;
+}
+
+.portfolio-row {
+  margin-top: 20px;
+}
