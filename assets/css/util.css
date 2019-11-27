@@ -1,6 +1,6 @@
 .clearfix::after {
   display: block;
-  content: "";
+  content: '';
   clear: both;
 }
 
@@ -14,4 +14,8 @@
 
 .small {
   font-size: 12px;
+}
+
+.flex-end {
+  justify-content: flex-end;
 }
