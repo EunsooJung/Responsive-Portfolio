@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Preview
 
-[![Portfolio Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Portfolio Preview](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/)](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/)
 
 ## Usage
 
