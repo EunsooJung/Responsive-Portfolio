@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Preview
 
-[![Portfolio Preview](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/)](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/)
+[![Portfolio Preview](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/blob/master/images/preview.png)](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/blob/master/images/preview.png)
 
 ## Usage
 
@@ -34,7 +34,6 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 * [https://eunsoojung.github.io/Unit-02-CSS-and-Bootstrap/](#)
 * [Link to Github](https://github.com/)
-* [Link to LinkedIn](https://www.linkedin.com/)
 
 ## License
 
