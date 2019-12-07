@@ -38,7 +38,16 @@
 }
 
 .portfolio1 {
-  background: url(../../images/image1.jpeg) top left no-repeat;
+  background: url(../../images/02-Responsive-Portfolio.png) top left no-repeat;
+  background-size: cover;
+}
+
+.portfolio2 {
+  background: url(../../images/03-pwd-gen.png) top left no-repeat;
+  background-size: cover;
+}
+.portfolio3 {
+  background: url(../../images/04-Code-Quiz.gif) top left no-repeat;
   background-size: cover;
 }
 
