@@ -50,6 +50,22 @@
   background: url(../../images/04-Code-Quiz.gif) top left no-repeat;
   background-size: cover;
 }
+.portfolio4 {
+  background: url(../../images/05-Day-Planner.gif) top left no-repeat;
+  background-size: cover;
+}
+.portfolio5 {
+  background: url(../../images/06-Weather-Dashboard.gif) top left no-repeat;
+  background-size: cover;
+}
+.portfolio6 {
+  background: url(../../images/07-Grumble-Features.png) top left no-repeat;
+  background-size: cover;
+}
+.portfolio7 {
+  background: url(../../images/09-Dev-Profile-Gen.png) top left no-repeat;
+  background-size: cover;
+}
 
 .portfolio-row {
   margin-top: 20px;
