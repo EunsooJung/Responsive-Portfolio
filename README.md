@@ -1,6 +1,6 @@
 # Unit-02-CSS-and-Bootstrap
 
-Unit 02 CSS and Bootstrap
+Welcom to my portfolio site.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Preview
 
-[![Portfolio Preview](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/blob/master/images/preview.png)](https://github.com/EunsooJung/Unit-02-CSS-and-Bootstrap/blob/master/images/preview.png)
+[![Portfolio Preview](https://github.com/EunsooJung/Unit-02-Responsive-Portfolio/blob/master/images/Portfolio-Preview.png)](https://github.com/EunsooJung/Unit-02-Responsive-Portfolio/blob/master/images/Portfolio-Preview.png)
 
 ## Usage
 
@@ -20,20 +20,22 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-- https://startbootstrap.com
-- https://twitter.com/SBootstrap
+- https://getbootstrap.com/
 
 ## Authors
 
 - **Michael(Eunsoo)Jung**
 
-* [https://eunsoojung.github.io/Unit-02-CSS-and-Bootstrap/](#)
-* [Link to Github](https://github.com/)
+* [My Portfolio](https://eunsoojung.github.io/Unit-02-Responsive-Portfolio/portfolio.html)
+* [Link to Github](https://github.com/EunsooJung/)
+* [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/)
 
 ## License
 
