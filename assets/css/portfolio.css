@@ -67,6 +67,11 @@
   background-size: cover;
 }
 
+.portfolio8 {
+  background: url(../../images/10-Emp-Summ.gif) top left no-repeat;
+  background-size: cover;
+}
+
 .portfolio-row {
   margin-top: 20px;
 }
