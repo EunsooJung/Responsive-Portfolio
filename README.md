@@ -33,7 +33,7 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 - **Michael(Eunsoo)Jung**
 
-* [My Portfolio](https://eunsoojung.github.io/Unit-02-Responsive-Portfolio/portfolio.html)
+* [My Portfolio](https://eunsoojung.github.io/Responsive-Portfolio/portfolio.html)
 * [Link to Github](https://github.com/EunsooJung/)
 * [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/)
 
