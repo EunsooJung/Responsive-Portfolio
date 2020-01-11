@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Preview
 
-[![Portfolio Preview](https://github.com/EunsooJung/Unit-02-Responsive-Portfolio/blob/master/images/Portfolio-Preview.png)](https://github.com/EunsooJung/Unit-02-Responsive-Portfolio/blob/master/images/Portfolio-Preview.png)
+[![Portfolio Preview](https://github.com/EunsooJung/Responsive-Portfolio/blob/master/images/02-Responsive-Portfolio.png)](https://github.com/EunsooJung/Responsive-Portfolio/blob/master/images/02-Responsive-Portfolio.png)
 
 ## Usage
 
