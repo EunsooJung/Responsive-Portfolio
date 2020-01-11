@@ -1,6 +1,6 @@
 # Unit-02-CSS-and-Bootstrap
 
-Welcom to my portfolio site.
+Welcom to [My Portfolio](https://eunsoojung.github.io/Responsive-Portfolio/) application.
 
 ## Getting Started
 
